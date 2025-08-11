@@ -1,11 +1,11 @@
-//base by Tech-God
+//base by Scouty-Boi
 //re-upload? recode? copy code? give credit ya :)
-//YouTube: @techgod143
-//Instagram: techgod143
-//Telegram: t.me/techgod143
-//GitHub: @techgod143
+//YouTube: Scouty-Boi
+//Instagram: scoutyboi7
+//Telegram: t.me/scouboi7
+//GitHub: @scoutyboi7
 //WhatsApp: +917466008456
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@techgod143
+//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/Scouty-Boi3
 const fs = require('fs')
 const chalk = require('chalk')
 
